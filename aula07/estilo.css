@@ -1,0 +1,28 @@
+*{
+    font-size: 30px;
+    color: green;
+}
+
+p {
+    color:blue;
+}
+
+.corDaFonte{
+    color: gray;
+}
+
+#paragrafo2 {
+    color: red;
+}
+
+.sublinhado{
+    text-decoration: underline;
+}
+
+.italico {
+    font-style: italic;
+}
+
+.negrito {
+    font-weight: 800;
+}
